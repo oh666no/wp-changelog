@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <skoch.ue@gmail.com>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 16:58+0300\n"
+"Last-Translator: Andrew Skochelias <skoch.ue@gmail.com>\n"
+"Language-Team: Andrew Skochelias <skoch.ue@gmail.com>\n"
+"Language: EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: classes/class.view-changelog.php:103
+msgid "ID"
+msgstr ""
+
+#: classes/class.view-changelog.php:104
+msgid "Date"
+msgstr ""
+
+#: classes/class.view-changelog.php:105
+msgid "Action"
+msgstr ""
+
+#: classes/class.view-changelog.php:106
+msgid "Name"
+msgstr ""
+
+#: classes/class.view-changelog.php:107
+msgid "Ver."
+msgstr ""
+
+#: classes/class.view-changelog.php:108
+msgid "Type"
+msgstr ""
